@@ -7,7 +7,7 @@ namespace if_else_if
     {
         static void Main(string[] args)
         {
-           int time = DateTime. Now. Hour;
+           int time = DateTime.Now.Hour;
 
         if(time>=6 && time<11)
         Console.WriteLine("Gunaydin!");
